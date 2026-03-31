@@ -21,3 +21,14 @@
 5. event ontology
 6. later implementation
 
+
+## Required project reading order
+
+Always read these files before any substantial task:
+- `docs/context/MASTER_DIRECTION.md`
+- `docs/context/PHASE_STATUS.md`
+- `documentation.md` if it exists
+- `docs/context/OPEN_DECISIONS.md` if it exists
+
+Do not skip phases unless explicitly instructed.
+Stay within the current phase unless explicitly instructed.
